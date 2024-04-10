@@ -1,0 +1,22 @@
+{
+  "name": "bitsbotsosigum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "joi": "^17.12.3",
+    "joi-to-swagger": "^6.2.0",
+    "mssql": "^10.0.2",
+    "npm": "^10.5.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
